@@ -5,6 +5,8 @@ namespace App\Filament\Resources\Seasons;
 use App\Filament\Resources\Seasons\Pages\CreateSeason;
 use App\Filament\Resources\Seasons\Pages\EditSeason;
 use App\Filament\Resources\Seasons\Pages\ListSeasons;
+use App\Filament\Resources\Seasons\RelationManagers\DepositsRelationManager;
+use App\Filament\Resources\Seasons\RelationManagers\ExpensesRelationManager;
 use App\Filament\Resources\Seasons\RelationManagers\PlayersRelationManager;
 use App\Filament\Resources\Seasons\Schemas\SeasonForm;
 use App\Filament\Resources\Seasons\Tables\SeasonsTable;
@@ -40,6 +42,8 @@ class SeasonResource extends Resource
     {
         return [
             PlayersRelationManager::class,
+            DepositsRelationManager::class,
+            ExpensesRelationManager::class,
         ];
     }
 

@@ -19,6 +19,8 @@ class SeasonsTable
                     ->searchable(),
                 IconColumn::make('is_active')
                     ->boolean(),
+                TextColumn::make('registration_fee')
+                    ->money(),
                 TextColumn::make('created_at')
                     ->dateTime()
                     ->sortable()

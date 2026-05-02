@@ -16,6 +16,11 @@ class SeasonForm
                     ->required(),
                 Toggle::make('is_active')
                     ->required(),
+                TextInput::make('registration_fee')
+                    ->label('Registration Fee')
+                    ->numeric()
+                    ->prefix('$')
+                    ->minValue(0),
             ]);
     }
 }

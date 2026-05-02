@@ -9,16 +9,23 @@ use Illuminate\Database\Eloquent\Factories\Factory;
  */
 class SeasonFactory extends Factory
 {
-    /**
-     * Define the model's default state.
-     *
-     * @return array<string, mixed>
-     */
     public function definition(): array
     {
+        $startYear = fake()->unique()->numberBetween(2010, 2040);
+
         return [
-            'season_name' => now()->year .'-'.now()->addYear()->year,
-            'is_active' => true,
+            'season_name' => $startYear.'-'.($startYear + 1),
+            'is_active' => false,
         ];
+    }
+
+    public function active(): static
+    {
+        return $this->state(['is_active' => true]);
+    }
+
+    public function inactive(): static
+    {
+        return $this->state(['is_active' => false]);
     }
 }

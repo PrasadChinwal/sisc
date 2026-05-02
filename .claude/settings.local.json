@@ -1,7 +1,17 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(php artisan *)",
+      "Bash(vendor/bin/pint *)",
+      "mcp__laravel-boost__search-docs",
+      "mcp__laravel-boost__database-schema",
+      "mcp__laravel-boost__tinker",
+      "Bash(php -r 'echo implode\\('\\\\'', '\\\\'', array_filter\\(array_keys\\(\\(new ReflectionClass\\(\\\\Filament\\\\Support\\\\Icons\\\\Heroicon::class\\)\\)->getConstants\\(\\)\\), fn\\($k\\) => stripos\\($k, '\\\\''bank'\\\\''\\) !== false\\)\\);')"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "laravel-boost",
     "herd"
-  ],
-  "enableAllProjectMcpServers": true
+  ]
 }

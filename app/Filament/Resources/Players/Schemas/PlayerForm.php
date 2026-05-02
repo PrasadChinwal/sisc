@@ -3,6 +3,7 @@
 namespace App\Filament\Resources\Players\Schemas;
 
 use App\Enums\PlayingPosition;
+use App\Models\Season;
 use Filament\Forms\Components\DatePicker;
 use Filament\Forms\Components\Select;
 use Filament\Forms\Components\TextInput;
@@ -22,6 +23,12 @@ class PlayerForm
                         'md' => 2,
                     ])
                     ->schema([
+                        Select::make('season_id')
+                            ->label('Season')
+                            ->options(fn () => Season::orderByDesc('season_name')->pluck('season_name', 'id'))
+                            ->default(fn () => Season::where('is_active', true)->value('id'))
+                            ->required()
+                            ->columnSpanFull(),
                         TextEntry::make('full_name'),
                         TextInput::make('first_name')
                             ->required(),
@@ -40,7 +47,7 @@ class PlayerForm
                             ->required()
                             ->multiple()
                             ->options(PlayingPosition::class),
-                    ])
+                    ]),
             ]);
     }
 }

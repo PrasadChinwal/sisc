@@ -9,12 +9,12 @@
                 <div
                     class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-8 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
                     <h1 class="max-w-2xl text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl lg:col-span-2 xl:col-auto dark:text-white">
-                        We’re a passionate group of people with immense love for Soccer</h1>
+                        A little about us
+                    </h1>
                     <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
                         <p class="text-lg font-medium text-pretty text-gray-500 sm:text-xl/8 dark:text-gray-400">
-                            Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
-                            commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua. Anim aute id magna aliqua
-                            ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.</p>
+                            Springfield International Soccer Club is dedicated to bringing the world’s game to the heart of our community. We provide a dynamic environment where players of all backgrounds can develop their technical skills, tactical intelligence, and a lifelong passion for the sport. By blending high-level coaching with a focus on sportsmanship and inclusion, we aim to elevate the local standard of play while fostering a tight-knit family of athletes. Here, we don't just play soccer—we build leaders and celebrate the diverse spirit of the game.
+                        </p>
                     </div>
                     <img
                         src="https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -104,8 +104,9 @@
         <div class="mx-auto mt-32 max-w-7xl sm:mt-40 sm:px-6 lg:px-8">
             <div
                 class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 text-center shadow-2xl sm:rounded-3xl sm:px-16 dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-0 dark:after:inset-ring dark:after:inset-ring-white/10 dark:after:sm:rounded-3xl">
-                <h2 class="mx-auto max-w-2xl text-3xl font-bold tracking-tight text-white sm:text-4xl">Our customers
-                    love us</h2>
+                <h2 class="mx-auto max-w-2xl text-3xl font-bold tracking-tight text-white sm:text-4xl">
+                    Our customers love us
+                </h2>
                 <p class="mx-auto mt-6 max-w-xl text-lg/8 text-gray-300">Aliquip reprehenderit incididunt amet quis
                     fugiat ut velit. Sit occaecat labore proident cillum in nisi adipisicing officia excepteur
                     tempor deserunt.</p>
@@ -190,59 +191,16 @@
             </div>
         </div>
 
-        <!-- Stats -->
-        <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-40 lg:px-8">
-            <div class="mx-auto max-w-2xl lg:mx-0">
-                <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">
-                    We approach work as a place to make the world better</h2>
-                <p class="mt-6 text-base/7 text-gray-600 dark:text-gray-300">Diam nunc lacus lacus aliquam turpis
-                    enim. Eget hac velit est euismod lacus. Est non placerat nam arcu. Cras purus nibh cursus sit eu
-                    in id. Integer vel nibh.</p>
-            </div>
-            <div
-                class="mx-auto mt-16 flex max-w-2xl flex-col gap-8 lg:mx-0 lg:mt-20 lg:max-w-none lg:flex-row lg:items-end">
-                <div
-                    class="flex flex-col-reverse justify-between gap-x-16 gap-y-8 rounded-2xl bg-gray-50 p-8 sm:w-3/4 sm:max-w-md sm:flex-row-reverse sm:items-end lg:w-72 lg:max-w-none lg:flex-none lg:flex-col lg:items-start dark:bg-white/5 dark:inset-ring dark:inset-ring-white/10">
-                    <p class="flex-none text-3xl font-bold tracking-tight text-gray-900 dark:text-white">250k</p>
-                    <div class="sm:w-80 sm:shrink lg:w-auto lg:flex-none">
-                        <p class="text-lg font-semibold tracking-tight text-gray-900 dark:text-white">Users on the
-                            platform</p>
-                        <p class="mt-2 text-base/7 text-gray-600 dark:text-gray-300">Vel labore deleniti veniam
-                            consequuntur sunt nobis.</p>
-                    </div>
-                </div>
-                <div
-                    class="flex flex-col-reverse justify-between gap-x-16 gap-y-8 rounded-2xl bg-gray-900 p-8 sm:flex-row-reverse sm:items-end lg:w-full lg:max-w-sm lg:flex-auto lg:flex-col lg:items-start lg:gap-y-44 dark:bg-gray-700 dark:inset-ring dark:inset-ring-white/10">
-                    <p class="flex-none text-3xl font-bold tracking-tight text-white">$8.9 billion</p>
-                    <div class="sm:w-80 sm:shrink lg:w-auto lg:flex-none">
-                        <p class="text-lg font-semibold tracking-tight text-white">We’re proud that our customers
-                            have made over $8 billion in total revenue.</p>
-                        <p class="mt-2 text-base/7 text-gray-400 dark:text-gray-300">Eu duis porta aliquam ornare.
-                            Elementum eget magna egestas.</p>
-                    </div>
-                </div>
-                <div
-                    class="flex flex-col-reverse justify-between gap-x-16 gap-y-8 rounded-2xl bg-indigo-600 p-8 sm:w-11/12 sm:max-w-xl sm:flex-row-reverse sm:items-end lg:w-full lg:max-w-none lg:flex-auto lg:flex-col lg:items-start lg:gap-y-28 dark:inset-ring dark:inset-ring-white/10">
-                    <p class="flex-none text-3xl font-bold tracking-tight text-white">401,093</p>
-                    <div class="sm:w-80 sm:shrink lg:w-auto lg:flex-none">
-                        <p class="text-lg font-semibold tracking-tight text-white">Transactions this year</p>
-                        <p class="mt-2 text-base/7 text-indigo-200 dark:text-indigo-100">Eu duis porta aliquam
-                            ornare. Elementum eget magna egestas. Eu duis porta aliquam ornare.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Blog section -->
+        <!-- Details section -->
         <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-40 lg:px-8">
             <div
                 class="mx-auto flex max-w-2xl flex-col items-end justify-between gap-16 lg:mx-0 lg:max-w-none lg:flex-row">
                 <div class="w-full lg:max-w-lg lg:flex-auto">
                     <h2 class="text-3xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-4xl dark:text-white">
                         We’re always looking for awesome people to join us</h2>
-                    <p class="mt-6 text-xl/8 text-gray-600 dark:text-gray-400">Diam nunc lacus lacus aliquam turpis
-                        enim. Eget hac velit est euismod lacus. Est non placerat nam arcu. Cras purus nibh cursus
-                        sit eu in id.</p>
+                    <p class="mt-6 text-xl/8 text-gray-600 dark:text-gray-400">
+                        More Than a Club. A Community
+                    </p>
                     <img
                         src="https://images.unsplash.com/photo-1560272564-c83b66b1ad12?q=80&w=1049&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt=""

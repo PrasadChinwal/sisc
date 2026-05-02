@@ -33,6 +33,8 @@
                 </svg>
             </a>
         </div>
-        <p class="mt-8 text-center text-sm/6 text-gray-600 md:order-1 md:mt-0 dark:text-gray-400">&copy; 2024 Your Company, Inc. All rights reserved.</p>
+        <p class="mt-8 text-center text-sm/6 text-gray-600 md:order-1 md:mt-0 dark:text-gray-400">
+            &copy; {{ date('Y') }} <a class="font-mono text-lg underline" href="mailto:prasadchinwal5@gmail.com" target="_blank">Chinwal Prasad</a>. All rights reserved.
+        </p>
     </div>
 </footer>

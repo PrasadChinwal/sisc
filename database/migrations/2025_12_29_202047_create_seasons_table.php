@@ -18,6 +18,8 @@ return new class extends Migration
                 ->unique();
             $table->boolean('is_active')
                 ->default(false);
+            $table->decimal('registration_fee', 8, 2)
+                ->default(0.0);
             $table->timestamps();
             $table->softDeletes();
         });
