@@ -6,7 +6,11 @@
       "mcp__laravel-boost__search-docs",
       "mcp__laravel-boost__database-schema",
       "mcp__laravel-boost__tinker",
-      "Bash(php -r 'echo implode\\('\\\\'', '\\\\'', array_filter\\(array_keys\\(\\(new ReflectionClass\\(\\\\Filament\\\\Support\\\\Icons\\\\Heroicon::class\\)\\)->getConstants\\(\\)\\), fn\\($k\\) => stripos\\($k, '\\\\''bank'\\\\''\\) !== false\\)\\);')"
+      "Bash(php -r 'echo implode\\('\\\\'', '\\\\'', array_filter\\(array_keys\\(\\(new ReflectionClass\\(\\\\Filament\\\\Support\\\\Icons\\\\Heroicon::class\\)\\)->getConstants\\(\\)\\), fn\\($k\\) => stripos\\($k, '\\\\''bank'\\\\''\\) !== false\\)\\);')",
+      "Bash(xargs ls *)",
+      "Bash(rm /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages/auth/register.blade.php)",
+      "Bash(rmdir /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages/auth)",
+      "Bash(rmdir /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages)"
     ]
   },
   "enableAllProjectMcpServers": true,
