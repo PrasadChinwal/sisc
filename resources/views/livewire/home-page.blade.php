@@ -28,36 +28,11 @@
             </div>
         </div>
 
-        <!-- Logo cloud -->
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <div class="mx-auto grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-12 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 sm:gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-5">
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-gray-900.svg" alt="Transistor" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 dark:hidden" />
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/transistor-logo-white.svg" alt="Transistor" class="col-span-2 max-h-12 w-full object-contain not-dark:hidden lg:col-span-1" />
-
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-gray-900.svg" alt="Reform" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 dark:hidden" />
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/reform-logo-white.svg" alt="Reform" class="col-span-2 max-h-12 w-full object-contain not-dark:hidden lg:col-span-1" />
-
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-gray-900.svg" alt="Tuple" class="col-span-2 max-h-12 w-full object-contain lg:col-span-1 dark:hidden" />
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/tuple-logo-white.svg" alt="Tuple" class="col-span-2 max-h-12 w-full object-contain not-dark:hidden lg:col-span-1" />
-
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-gray-900.svg" alt="SavvyCal" class="col-span-2 max-h-12 w-full object-contain sm:col-start-2 lg:col-span-1 dark:hidden" />
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/savvycal-logo-white.svg" alt="SavvyCal" class="col-span-2 max-h-12 w-full object-contain not-dark:hidden sm:col-start-2 lg:col-span-1" />
-
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-gray-900.svg" alt="Statamic" class="col-span-2 col-start-2 max-h-12 w-full object-contain sm:col-start-auto lg:col-span-1 dark:hidden" />
-                <img width="158" height="48" src="https://tailwindcss.com/plus-assets/img/logos/158x48/statamic-logo-white.svg" alt="Statamic" class="col-span-2 col-start-2 max-h-12 w-full object-contain not-dark:hidden sm:col-start-auto lg:col-span-1" />
-            </div>
-            <div class="mt-16 flex justify-center">
-                <p class="relative rounded-full bg-white/25 px-4 py-1.5 text-sm/6 text-gray-600 inset-ring inset-ring-gray-900/10 dark:bg-gray-800/25 dark:text-gray-400 dark:inset-ring-white/10">
-                    <span class="hidden md:inline">Transistor saves up to $40,000 per year, per employee by working with us.</span>
-                    <a href="#" class="font-semibold text-indigo-600 hover:text-indigo-500 dark:text-indigo-400 dark:hover:text-indigo-300"><span aria-hidden="true" class="absolute inset-0"></span> Read our case study <span aria-hidden="true">&rarr;</span></a>
-                </p>
-            </div>
-        </div>
 
         <!-- Feature section -->
         <div class="mx-auto mt-10 max-w-7xl px-6 sm:mt-20 lg:px-8">
             <div class="mx-auto max-w-2xl lg:text-center">
-                <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Deploy faster</h2>
+                <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">What we offer</h2>
                 <p class="mt-2 text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl lg:text-balance dark:text-white">
                     Everything you need to play at your best levels.
                 </p>
@@ -135,8 +110,7 @@
                     <div style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)" class="aspect-1097/845 w-274.25 bg-linear-to-r from-[#ff4694] to-[#776fff] opacity-25 dark:opacity-20"></div>
                 </div>
                 <div class="relative mx-auto max-w-2xl lg:mx-0">
-                    <img src="https://tailwindcss.com/plus-assets/img/logos/workcation-logo-white.svg" alt="" class="h-12 w-auto dark:hidden" />
-                    <img src="https://tailwindcss.com/plus-assets/img/logos/workcation-logo-white.svg" alt="" class="h-12 w-auto not-dark:hidden" />
+                    <p class="text-xl font-bold tracking-tight text-white">Springfield International Soccer Club</p>
                     <figure>
                         <blockquote class="mt-6 text-lg font-semibold text-white sm:text-xl/8">
                             <p>"At Springfield International, our mission is to create a pathway for every player to reach their highest potential through the beautiful game. I am incredibly proud of the diverse, hardworking community we’ve built, where excellence on the pitch is matched by the lifelong friendships formed off it. We don’t just develop athletes; we build the future leaders of our community."</p>
@@ -157,7 +131,7 @@
                     <h2 class="text-base/7 font-semibold text-indigo-600 dark:text-indigo-400">Memberships</h2>
                     <p class="mt-2 text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">Pricing that grows with you</p>
                 </div>
-                <p class="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl/8 dark:text-gray-400">Choose an affordable plan that’s packed with the best features for engaging your audience, creating customer loyalty, and driving sales.</p>
+                <p class="mx-auto mt-6 max-w-2xl text-center text-lg/8 text-pretty text-gray-600 sm:text-xl/8 dark:text-gray-400">Choose the membership that fits your level of involvement and support for the club.</p>
                 <div class="isolate mx-auto mt-16 grid max-w-md grid-cols-1 gap-y-8 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3">
                     <div class="-mr-px flex flex-col justify-between rounded-3xl bg-white p-8 inset-ring inset-ring-gray-200 lg:mt-8 lg:rounded-r-none xl:p-10 dark:bg-gray-800/50 dark:inset-ring-gray-700">
                         <div>
@@ -290,39 +264,39 @@
             <h2 class="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl dark:text-white">Frequently asked questions</h2>
             <dl class="mt-20 divide-y divide-gray-900/10 dark:divide-white/10">
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">What&#039;s the best thing about Switzerland?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">How do I become a member?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">I don&#039;t know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">You can register online by clicking the "Get started" button above and selecting the membership tier that suits you. Once registered, you'll receive a confirmation email with next steps.</p>
                     </dd>
                 </div>
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">How do you make holy water?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">When and where do practices take place?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">You boil the hell out of it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam aut tempora vitae odio inventore fuga aliquam nostrum quod porro. Delectus quia facere id sequi expedita natus.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">We hold practices every Tuesday and Thursday evening. Exact times and field locations are communicated to members via email and our club app once your membership is confirmed.</p>
                     </dd>
                 </div>
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">What do you call someone with no body and no nose?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">What age groups and skill levels do you accept?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Nobody knows. Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, voluptas ipsa quia excepturi, quibusdam natus exercitationem sapiente tempore labore voluptatem.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Springfield International is open to adult players of all skill levels. We welcome complete beginners and seasoned players alike — our sessions are structured to develop everyone at their own pace.</p>
                     </dd>
                 </div>
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">Why do you never see elephants hiding in trees?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">Are jerseys included in the membership?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Because they&#039;re so good at it. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Member/Player and Loyalist memberships include club jerseys. Member/Players receive a home and away jersey, while Loyalists also get a club t-shirt. Supporters are welcome to purchase jerseys separately.</p>
                     </dd>
                 </div>
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">Why can&#039;t you hear a pterodactyl go to the bathroom?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">How are tournament teams selected?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Because the pee is silent. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, quas voluptatibus ex culpa ipsum, aspernatur blanditiis fugiat ullam magnam suscipit deserunt illum natus facilis atque vero consequatur! Quisquam, debitis error.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Tournament squads are selected by the coaching staff based on attendance, performance during practices, and team needs. All Member/Player and Loyalist members are eligible for selection.</p>
                     </dd>
                 </div>
                 <div class="py-8 first:pt-0 last:pb-0 lg:grid lg:grid-cols-12 lg:gap-8">
-                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">Why did the invisible man turn down the job offer?</dt>
+                    <dt class="text-base/7 font-semibold text-gray-900 lg:col-span-5 dark:text-white">Can I bring family and friends to games?</dt>
                     <dd class="mt-4 lg:col-span-7 lg:mt-0">
-                        <p class="text-base/7 text-gray-600 dark:text-gray-400">He couldn&#039;t see himself doing it. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet perspiciatis officiis corrupti tenetur. Temporibus ut voluptatibus, perferendis sed unde rerum deserunt eius.</p>
+                        <p class="text-base/7 text-gray-600 dark:text-gray-400">Absolutely! We encourage family and friends to come out and support. Our social events are also a great way for the wider community to connect with the club beyond match days.</p>
                     </dd>
                 </div>
             </dl>
@@ -334,11 +308,11 @@
                 <div style="clip-path: polygon(73.6% 48.6%, 91.7% 88.5%, 100% 53.9%, 97.4% 18.1%, 92.5% 15.4%, 75.7% 36.3%, 55.3% 52.8%, 46.5% 50.9%, 45% 37.4%, 50.3% 13.1%, 21.3% 36.2%, 0.1% 0.1%, 5.4% 49.1%, 21.4% 36.4%, 58.9% 100%, 73.6% 48.6%)" class="aspect-1108/632 w-277 flex-none bg-linear-to-r from-[#ff80b5] to-[#9089fc] opacity-25"></div>
             </div>
             <div class="mx-auto max-w-2xl text-center">
-                <h2 class="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">Boost your productivity. Start using our app today.</h2>
-                <p class="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-300">Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea.</p>
+                <h2 class="text-4xl font-semibold tracking-tight text-balance text-gray-900 sm:text-5xl dark:text-white">Ready to join the club?</h2>
+                <p class="mx-auto mt-6 max-w-xl text-lg/8 text-pretty text-gray-600 dark:text-gray-300">Become part of a diverse and passionate community. Whether you're here to compete, stay active, or simply enjoy the game — there's a place for you at Springfield International.</p>
                 <div class="mt-10 flex items-center justify-center gap-x-6">
-                    <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:shadow-none dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Get started</a>
-                    <a href="#" class="text-sm/6 font-semibold text-gray-900 dark:text-white">Learn more <span aria-hidden="true">→</span></a>
+                    <a href="{{ route('about') }}" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 dark:bg-indigo-500 dark:shadow-none dark:hover:bg-indigo-400 dark:focus-visible:outline-indigo-500">Get started</a>
+                    <a href="{{ route('about') }}" class="text-sm/6 font-semibold text-gray-900 dark:text-white">Learn more <span aria-hidden="true">→</span></a>
                 </div>
             </div>
             <div aria-hidden="true" class="absolute top-full right-0 left-1/2 -z-10 hidden -translate-y-1/2 transform-gpu overflow-hidden blur-3xl sm:block">

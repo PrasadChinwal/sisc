@@ -1,11 +1,9 @@
 <section id="about">
-    <main class="isolate">
+    <main class="">
         <!-- Hero section -->
         <div
-            class="relative isolate -z-10 overflow-hidden bg-linear-to-b from-indigo-100/20 pt-14 dark:from-indigo-950/10">
-            <div aria-hidden="true"
-                 class="absolute inset-y-0 right-1/2 -z-10 -mr-96 w-[200%] origin-top-right skew-x-[-30deg] bg-white shadow-xl ring-1 shadow-indigo-600/10 ring-indigo-50 sm:-mr-80 lg:-mr-96 dark:bg-gray-800/30 dark:shadow-indigo-400/10 dark:ring-white/5"></div>
-            <div class="mx-auto max-w-7xl px-6 py-32 sm:py-40 lg:px-8">
+            class="bg-linear-to-b from-indigo-100/20 pt-5 dark:from-indigo-950/10">
+            <div class="mx-auto max-w-7xl px-6 py-32 sm:py-20 lg:px-8">
                 <div
                     class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-8 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
                     <h1 class="max-w-2xl text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl lg:col-span-2 xl:col-auto dark:text-white">
@@ -22,8 +20,6 @@
                         class="mt-10 aspect-6/5 w-full max-w-lg rounded-2xl object-cover outline-1 -outline-offset-1 outline-black/5 sm:mt-16 lg:mt-0 lg:max-w-none xl:row-span-2 xl:row-end-2 xl:mt-36 dark:outline-white/10"/>
                 </div>
             </div>
-            <div
-                class="absolute inset-x-0 bottom-0 -z-10 h-24 bg-linear-to-t from-white sm:h-32 dark:from-gray-900"></div>
         </div>
 
         <!-- Timeline section -->
@@ -43,8 +39,7 @@
                     <p class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white">Founded
                         SISC</p>
                     <p class="mt-1 text-base/7 text-gray-600 dark:text-gray-400">
-                        Nihil aut nam. Dignissimos a pariatur et quos omnis. Aspernatur asperiores et dolorem
-                        dolorem optio voluptate repudiandae.
+                        A group of passionate soccer lovers came together in Springfield with one goal: to bring the beautiful game to their community and welcome players of every background.
                     </p>
                 </div>
                 <div>
@@ -61,7 +56,7 @@
                         Won first Major tournament
                     </p>
                     <p class="mt-1 text-base/7 text-gray-600 dark:text-gray-400">
-                        Provident quia ut esse. Vero vel eos repudiandae aspernatur. Cumque minima impedit sapiente a architecto nihil.
+                        After years of hard work and dedication, SISC claimed its first major trophy, cementing the club's place as a serious competitor on the regional stage.
                     </p>
                 </div>
                 <div>
@@ -74,11 +69,8 @@
                         <div aria-hidden="true"
                              class="absolute -ml-2 h-px w-screen -translate-x-full bg-gray-900/10 sm:-ml-4 lg:static lg:-mr-6 lg:ml-8 lg:w-auto lg:flex-auto lg:translate-x-0 dark:bg-white/15"></div>
                     </time>
-                    <p class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white">Released
-                        beta</p>
-                    <p class="mt-1 text-base/7 text-gray-600 dark:text-gray-400">Sunt perspiciatis incidunt. Non
-                        necessitatibus aliquid. Consequatur ut officiis earum eum quia facilis. Hic deleniti dolorem
-                        quia et.</p>
+                    <p class="mt-6 text-lg/8 font-semibold tracking-tight text-gray-900 dark:text-white">Launched Club Website</p>
+                    <p class="mt-1 text-base/7 text-gray-600 dark:text-gray-400">SISC launched its online home, making it easier than ever for members to stay connected, register, and follow club news and events.</p>
                 </div>
                 <div>
                     <time datetime="2022-12"
@@ -94,7 +86,7 @@
                         Won tournament after 10 years
                     </p>
                     <p class="mt-1 text-base/7 text-gray-600 dark:text-gray-400">
-                        Ut ipsa sint distinctio quod itaque nam qui. Possimus aut unde id architecto voluptatem hic aut pariatur velit.
+                        A decade after their first title, SISC returned to the winner's podium — a testament to the club's resilience, growth, and the incredible spirit of its players.
                     </p>
                 </div>
             </div>
@@ -105,11 +97,9 @@
             <div
                 class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 text-center shadow-2xl sm:rounded-3xl sm:px-16 dark:shadow-none dark:after:pointer-events-none dark:after:absolute dark:after:inset-0 dark:after:inset-ring dark:after:inset-ring-white/10 dark:after:sm:rounded-3xl">
                 <h2 class="mx-auto max-w-2xl text-3xl font-bold tracking-tight text-white sm:text-4xl">
-                    Our customers love us
+                    Our Sponsors &amp; Partners
                 </h2>
-                <p class="mx-auto mt-6 max-w-xl text-lg/8 text-gray-300">Aliquip reprehenderit incididunt amet quis
-                    fugiat ut velit. Sit occaecat labore proident cillum in nisi adipisicing officia excepteur
-                    tempor deserunt.</p>
+                <p class="mx-auto mt-6 max-w-xl text-lg/8 text-gray-300">We are grateful for the generous support of our sponsors and community partners who make it possible for us to grow the game in Springfield.</p>
                 <div
                     class="mx-auto mt-20 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-12 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 sm:gap-y-14 lg:max-w-4xl lg:grid-cols-5">
                     <img width="158" height="48"
@@ -148,14 +138,10 @@
                             Our people
                         </h2>
                         <p class="mt-6 text-xl/8 text-gray-700 dark:text-gray-300">
-                            Quasi est quaerat. Sit molestiae
-                            et. Provident ad dolorem occaecati eos iste. Soluta rerum quidem minus ut molestiae
-                            velit error quod. Excepturi quidem expedita molestias quas.
+                            Behind every great club is a great community. Our players, coaches, and volunteers come from all walks of life, united by a shared love of the game.
                         </p>
                         <p class="mt-6 text-base/7 text-gray-600 dark:text-gray-400">
-                            Anim aute id magna aliqua ad ad
-                            non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam
-                            occaecat fugiat. Quasi aperiam sit non sit neque reprehenderit.
+                            From experienced coaches who push everyone to their potential, to dedicated volunteers who keep the club running week after week — Springfield International is built on the passion and commitment of its people.
                         </p>
                     </div>
                     <div class="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
@@ -211,93 +197,44 @@
                     <ul class="-my-8 divide-y divide-gray-100 dark:divide-gray-800">
                         <li class="py-8">
                             <dl class="relative flex flex-wrap gap-x-3">
-                                <dt class="sr-only">Practice every Tuesday & Thursday</dt>
+                                <dt class="sr-only">Practice every Tuesday &amp; Thursday</dt>
                                 <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                                    <a href="#">
-                                        Practice every Tuesday & Thursday
-                                        <span aria-hidden="true" class="absolute inset-0"></span>
-                                    </a>
-                                </dd>
-                                <dt class="sr-only">Description</dt>
-                                <dd class="mt-2 w-full flex-none text-base/7 text-gray-600 dark:text-gray-400">Quos
-                                    sunt ad dolore ullam qui. Enim et quisquam dicta molestias. Corrupti quo
-                                    voluptatum eligendi autem labore.
-                                </dd>
-                                <dt class="sr-only">Salary</dt>
-                                <dd class="mt-4 text-base/7 font-semibold text-gray-900 dark:text-white">$75,000
-                                    USD
-                                </dd>
-                                <dt class="sr-only">Location</dt>
-                                <dd class="mt-4 flex items-center gap-x-3 text-base/7 text-gray-500 dark:text-gray-400">
-                                    <svg viewBox="0 0 2 2" aria-hidden="true"
-                                         class="size-0.5 flex-none fill-gray-300 dark:fill-gray-600">
-                                        <circle r="1" cx="1" cy="1"/>
-                                    </svg>
-                                    San Francisco, CA
-                                </dd>
-                            </dl>
-                        </li>
-                        <li class="py-8">
-                            <dl class="relative flex flex-wrap gap-x-3">
-                                <dt class="sr-only">Role</dt>
-                                <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                                    <a href="#">
-                                        Debut in tournaments
-                                        <span aria-hidden="true" class="absolute inset-0"></span>
-                                    </a>
-                                </dd>
-                                <dt class="sr-only">Description</dt>
-                                <dd class="mt-2 w-full flex-none text-base/7 text-gray-600 dark:text-gray-400">Et
-                                    veniam et officia dolorum rerum. Et voluptas consequatur magni sapiente amet
-                                    voluptates dolorum. Ut porro aut eveniet.
-                                </dd>
-                                <dt class="sr-only">Salary</dt>
-                                <dd class="mt-4 text-base/7 font-semibold text-gray-900 dark:text-white">$125,000
-                                    USD
-                                </dd>
-                                <dt class="sr-only">Location</dt>
-                                <dd class="mt-4 flex items-center gap-x-3 text-base/7 text-gray-500 dark:text-gray-400">
-                                    <svg viewBox="0 0 2 2" aria-hidden="true"
-                                         class="size-0.5 flex-none fill-gray-300 dark:fill-gray-600">
-                                        <circle r="1" cx="1" cy="1"/>
-                                    </svg>
-                                    San Francisco, CA
-                                </dd>
-                            </dl>
-                        </li>
-                        <li class="py-8">
-                            <dl class="relative flex flex-wrap gap-x-3">
-                                <dt class="sr-only">Role</dt>
-                                <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
-                                    <a href="#">
-                                        Events for Family & Friends.
-                                        <span aria-hidden="true" class="absolute inset-0"></span>
-                                    </a>
+                                    Practice every Tuesday &amp; Thursday
                                 </dd>
                                 <dt class="sr-only">Description</dt>
                                 <dd class="mt-2 w-full flex-none text-base/7 text-gray-600 dark:text-gray-400">
-                                    Veniam ipsam nisi quas architecto eos non voluptatem in nemo. Est occaecati
-                                    nihil omnis delectus illum est.
+                                    Regular structured sessions led by our coaching staff, focused on technical development, tactical understanding, and team chemistry. Open to all Member/Player and Loyalist members.
                                 </dd>
-                                <dt class="sr-only">Salary</dt>
-                                <dd class="mt-4 text-base/7 font-semibold text-gray-900 dark:text-white">$105,000
-                                    USD
+                            </dl>
+                        </li>
+                        <li class="py-8">
+                            <dl class="relative flex flex-wrap gap-x-3">
+                                <dt class="sr-only">Debut in tournaments</dt>
+                                <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
+                                    Compete in tournaments
                                 </dd>
-                                <dt class="sr-only">Location</dt>
-                                <dd class="mt-4 flex items-center gap-x-3 text-base/7 text-gray-500 dark:text-gray-400">
-                                    <svg viewBox="0 0 2 2" aria-hidden="true"
-                                         class="size-0.5 flex-none fill-gray-300 dark:fill-gray-600">
-                                        <circle r="1" cx="1" cy="1"/>
-                                    </svg>
-                                    San Francisco, CA
+                                <dt class="sr-only">Description</dt>
+                                <dd class="mt-2 w-full flex-none text-base/7 text-gray-600 dark:text-gray-400">
+                                    Members selected by the coaching staff get to represent SISC in competitive tournaments throughout the season. It's your chance to put your skills to the test against the best teams in the region.
+                                </dd>
+                            </dl>
+                        </li>
+                        <li class="py-8">
+                            <dl class="relative flex flex-wrap gap-x-3">
+                                <dt class="sr-only">Events for Family &amp; Friends</dt>
+                                <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900 dark:text-white">
+                                    Events for Family &amp; Friends
+                                </dd>
+                                <dt class="sr-only">Description</dt>
+                                <dd class="mt-2 w-full flex-none text-base/7 text-gray-600 dark:text-gray-400">
+                                    From end-of-season banquets to casual social gatherings, we make space for the whole SISC family. Bring your loved ones and celebrate the community we've built together.
                                 </dd>
                             </dl>
                         </li>
                     </ul>
                     <div class="mt-8 flex border-t border-gray-100 pt-8 dark:border-gray-800">
-                        <a href="#"
-                           class="text-sm/6 font-semibold text-indigo-600 hover:text-indigo-500 dark:text-indigo-400 dark:hover:text-indigo-300">View
-                            all openings <span aria-hidden="true">&rarr;</span></a>
+                        <a href="{{ route('team') }}"
+                           class="text-sm/6 font-semibold text-indigo-600 hover:text-indigo-500 dark:text-indigo-400 dark:hover:text-indigo-300">Meet the team <span aria-hidden="true">&rarr;</span></a>
                     </div>
                 </div>
             </div>

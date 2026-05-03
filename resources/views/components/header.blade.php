@@ -51,7 +51,7 @@
                             <div class="space-y-2 py-6">
                                 <a href="{{ route('announcement') }}" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50 dark:text-white dark:hover:bg-white/5">Announcements</a>
                                 <a href="{{ route('gallery') }}" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50 dark:text-white dark:hover:bg-white/5">Gallery</a>
-                                <a href="{{ route('team') }}" class="text-sm/6 font-semibold text-gray-900 dark:text-white">Team</a>
+                                <a href="{{ route('team') }}" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50 dark:text-white dark:hover:bg-white/5">Team</a>
                                 <a href="{{ route('about') }}" class="-mx-3 block rounded-lg px-3 py-2 text-base/7 font-semibold text-gray-900 hover:bg-gray-50 dark:text-white dark:hover:bg-white/5">About</a>
                             </div>
                             <div class="py-6">

@@ -10,7 +10,9 @@
       "Bash(xargs ls *)",
       "Bash(rm /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages/auth/register.blade.php)",
       "Bash(rmdir /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages/auth)",
-      "Bash(rmdir /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages)"
+      "Bash(rmdir /Users/prasadchinwal/Documents/projects/sisc/resources/views/filament/pages)",
+      "mcp__laravel-boost__list-routes",
+      "Bash(grep *)"
     ]
   },
   "enableAllProjectMcpServers": true,
