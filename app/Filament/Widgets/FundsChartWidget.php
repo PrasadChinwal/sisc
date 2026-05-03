@@ -5,11 +5,14 @@ namespace App\Filament\Widgets;
 use App\Models\Deposit;
 use App\Models\Expense;
 use App\Models\Season;
+use BezhanSalleh\FilamentShield\Traits\HasWidgetShield;
 use Filament\Widgets\ChartWidget;
 use Illuminate\Support\Carbon;
 
 class FundsChartWidget extends ChartWidget
 {
+    use HasWidgetShield;
+
     protected ?string $heading = 'Monthly Deposits vs Expenses';
 
     protected ?string $pollingInterval = null;

@@ -3,11 +3,14 @@
 namespace App\Filament\Widgets;
 
 use App\Models\Season;
+use BezhanSalleh\FilamentShield\Traits\HasWidgetShield;
 use Filament\Widgets\StatsOverviewWidget as BaseWidget;
 use Filament\Widgets\StatsOverviewWidget\Stat;
 
 class FundsOverviewWidget extends BaseWidget
 {
+    use HasWidgetShield;
+
     protected function getStats(): array
     {
         $season = Season::where('is_active', true)->first();
